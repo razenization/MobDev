@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default as FoodView } from \"./FoodView\";","map":{"version":3,"sources":["C:/Users/react/Desktop/univer/mobile/prak/views/index.js"],"names":["default","FoodView"],"mappings":"AAAA,SAASA,OAAO,IAAIC,QAApB","sourcesContent":["export { default as FoodView } from './FoodView';\n"]},"metadata":{},"sourceType":"module"}
